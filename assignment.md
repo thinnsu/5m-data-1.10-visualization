@@ -30,6 +30,7 @@ ax1.set_title("First Subplot")
 
 # Show the figure
 plt.show()
+
 ```
 
 ### Question 2
